@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Estoque",
+  "description": "Uma aplicação web simples para gerenciar o estoque de produtos utilizando o Google Sheets como backend. Permite adicionar, atualizar e remover itens com uma interface limpa e responsiva.",
+  "requestFramePermissions": []
+}
